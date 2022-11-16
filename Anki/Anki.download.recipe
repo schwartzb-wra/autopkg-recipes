@@ -23,7 +23,7 @@
 				<key>filename</key>
 				<string>%NAME%.dmg</string>
 				<key>url</key>
-				<string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/7270538/afe2f757-5884-4889-8a0c-d772cb76ab0a?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20221116%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20221116T200517Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=14bbd5f811250631e121025d645cc8989c0fc57696f5252417ed1b676c6bb0e9&amp;X-Amz-SignedHeaders=host&amp;actor_id=0&amp;key_id=0&amp;repo_id=7270538&amp;response-content-disposition=attachment%3B%20filename%3Danki-2.1.54-mac-apple-qt6.dmg&amp;response-content-type=application%2Foctet-stream</string>
+				<string>https://github.com/ankitects/anki/releases/download/2.1.54/anki-2.1.54-mac-apple-qt6.dmg</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
