@@ -25,7 +25,7 @@
 				<key>filename</key>
 				<string>%NAME%.dmg</string>
 				<key>url</key>
-				<string>https://education.ti.com/download/en/ed-tech/3DC447EB50E0466697761768FE3B6391/EC19EA5C6A764B459E300D6C2390E79D/TINspireCXCASStudentSoftware-5.4.0.259.dmg</string>
+				<string>https://education.ti.com/download/en/ed-tech/36BE84F974E940C78502AA47492887AB/ACED76F73C1542A5B641F86CBE3C0489/TINspireCXCASStudentSoftware-6.0.3.374.dmg</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
@@ -44,7 +44,7 @@
 					<string>Apple Root CA</string>
 				</array>
 				<key>input_path</key>
-				<string>%pathname%/TINspireCXCASStudentSoftware-5.4.0.259.pkg</string>
+				<string>%pathname%/TINspireCXCASStudentSoftware-6.0.3.374.pkg</string>
 			</dict>
 			<key>Processor</key>
 			<string>CodeSignatureVerifier</string>
@@ -55,7 +55,7 @@
 				<key>destination_path</key>
 				<string>%RECIPE_CACHE_DIR%/unpack</string>
 				<key>flat_pkg_path</key>
-				<string>%pathname%/TINspireCXCASStudentSoftware-5.4.0.259.pkg</string>
+				<string>%pathname%/TINspireCXCASStudentSoftware-6.0.3.374.pkg</string>
 				<key>purge_destination</key>
 				<true/>
 			</dict>
